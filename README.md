@@ -11,5 +11,5 @@ Außerdem Daten der Kosten der Algorithmen für lange Eingaben i.i.d. mit seed 0
 - SortUnifk (bis n = 700.000)
 - FKPT (bis n = 2.200.000) 
 - SimpleFill (bis n = 2.200.000) 
-- - AOS (bis n = 700.000) 
+- AOS (bis n = 700.000) 
 
